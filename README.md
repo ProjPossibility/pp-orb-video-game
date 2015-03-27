@@ -11,6 +11,7 @@ Features
 -Totally fun
 
 Current Issues
+
 -Some graphical flickering
 
 -Collision detection not perfect
